@@ -1,5 +1,5 @@
 - @mariusroos
-- I’m currently learning React, Java, Javascript, and Python
+- I’m currently learning React, Java and Javascript
 - mariusroos2000@gmail.com
 
 <!---
