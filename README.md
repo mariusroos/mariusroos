@@ -1,5 +1,5 @@
 - @mariusroos
-- I’m currently learning React, Java and Javascript
+- I’m currently learning Java, Rust/Anchor, Javascript
 - mariusroos2000@gmail.com
 
 <!---
