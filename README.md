@@ -1,5 +1,4 @@
 - @mariusroos
-- I’m currently learning Java, Rust/Anchor, Javascript
 - mariusroos2000@gmail.com
 
 <!---
